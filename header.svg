@@ -82,11 +82,7 @@
 				}
 			</style>
 			<div class="container">
-				<ul>
-					<li>👋 Hi, I’m @lovetingyuan</li>
-					<li>👀 I’m interested in Front-end development.</li>
-					<li>🌱 I’m currently learning React & React-Native.</li>
-				</ul>
+				<p>随着</p>
 				
 			</div>
 		</div>
