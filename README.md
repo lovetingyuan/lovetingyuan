@@ -1,3 +1,7 @@
+- 👋 Hi, I’m @lovetingyuan
+- 👀 I’m interested in Front-end development.
+- 🌱 I’m currently learning React & React-Native.
+
 <div align="center">
 	<br>
 	<img src="header.svg" width="800" height="400">
