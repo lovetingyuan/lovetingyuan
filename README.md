@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lovetingyuan
 - 👀 I’m interested in Front-end development.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React & React-Native.
 
 <!---
 lovetingyuan/lovetingyuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
