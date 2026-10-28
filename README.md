@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lovetingyuan
 - 👀 I’m interested in Front-end development.
-- 🌱 I’m currently learning React & React-Native.
+- 🌱 I’m currently vibe coding.
 
 <div align="center">
 	<br>
